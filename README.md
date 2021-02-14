@@ -65,5 +65,8 @@ https://www.plex.tv/media-server-downloads/
 [Run through docker](https://portainer.readthedocs.io/en/stable/deployment.html)
 Access at nuc.local:9000
 
+## SABNZBD
+https://sabnzbd.org/wiki/installation/install-debian
+
 ## Other
 Helpful pages along the way: https://medium.com/@jordanrounds/intel-nuc-home-assistant-supervised-7cc52d81744a
