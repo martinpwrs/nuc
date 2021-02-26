@@ -58,7 +58,9 @@ sudo bash installer.sh --machine intel-nuc
 
 ## Plex
 https://www.linuxbabe.com/debian/install-plex-media-server-debian-10-buster
-https://www.plex.tv/media-server-downloads/
+https://www.plex.tv/media-server-downloads
+
+https://github.com/linuxserver/docker-plex
 
 
 ## Portainer
@@ -66,7 +68,39 @@ https://www.plex.tv/media-server-downloads/
 Access at nuc.local:9000
 
 ## SABNZBD
-https://sabnzbd.org/wiki/installation/install-debian
+Download agent
+
+https://hub.docker.com/r/linuxserver/sabnzbd
+
+## Sonarr
+TV
+
+https://github.com/linuxserver/docker-sonarr
+
+## Radarr
+Movies
+
+https://github.com/linuxserver/docker-radarr
+
+## Lidarr
+Music
+
+https://github.com/linuxserver/docker-lidarr
+
+## Bazarr 
+TV and Movie subtitles
+
+https://github.com/linuxserver/docker-bazarr
+
+## Lazy Librarian
+Books
+
+https://github.com/linuxserver/docker-lazylibrarian
+
+## Lychee
+Photo
+
+https://github.com/linuxserver/docker-lychee
 
 ## Other
 Helpful pages along the way: https://medium.com/@jordanrounds/intel-nuc-home-assistant-supervised-7cc52d81744a
