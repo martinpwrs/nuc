@@ -53,8 +53,9 @@ apt list apparmor
 ```
 curl -Lo installer.sh https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh
 sudo bash installer.sh --machine intel-nuc
-
 ```
+
+NOTE: Set `--data-share /media/storage/hassio` if mounting larger drive and `--sysconfdir ` if wanted.
 
 ## Plex
 https://www.linuxbabe.com/debian/install-plex-media-server-debian-10-buster
