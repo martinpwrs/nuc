@@ -66,37 +66,49 @@ https://github.com/linuxserver/docker-plex
 
 ## Portainer
 [Run through docker](https://portainer.readthedocs.io/en/stable/deployment.html)
-Access at nuc.local:9000
+[Access](http://nuc.local:9000)
 
 ## SABNZBD
 Download agent
 
 https://hub.docker.com/r/linuxserver/sabnzbd
 
+[Access](http://nuc.local:8080/sabnzbd)
+
 ## Sonarr
 TV
 
 https://github.com/linuxserver/docker-sonarr
+
+[Access](http://nuc.local:8989)
 
 ## Radarr
 Movies
 
 https://github.com/linuxserver/docker-radarr
 
+[Access](http://nuc.local:7878)
+
 ## Lidarr
 Music
 
 https://github.com/linuxserver/docker-lidarr
+
+[Access](http://nuc.local:8686)
 
 ## Bazarr 
 TV and Movie subtitles
 
 https://github.com/linuxserver/docker-bazarr
 
+[Access](http://nuc.local:6767)
+
 ## Lazy Librarian
 Books
 
 https://github.com/linuxserver/docker-lazylibrarian
+
+[Access](http://nuc.local:5299)
 
 ## Lychee
 Photo
