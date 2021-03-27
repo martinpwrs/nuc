@@ -97,6 +97,20 @@ https://github.com/linuxserver/docker-lidarr
 
 [Access](http://nuc.local:8686)
 
+## Jackett
+Torrent Finder
+
+https://github.com/linuxserver/docker-jackett
+
+[Access](http://nuc.local:9117)
+
+## pyload
+Torrent Finder
+
+https://github.com/linuxserver/docker-pyload
+
+[Access](http://nuc.local:8001)
+
 ## Bazarr 
 TV and Movie subtitles
 
