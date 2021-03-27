@@ -67,7 +67,13 @@ https://github.com/linuxserver/docker-plex
 
 ## Portainer
 [Run through docker](https://portainer.readthedocs.io/en/stable/deployment.html)
+
 [Access](http://nuc.local:9000)
+
+## NZBHydra2
+NZB Aggregator
+
+[Access](http://nuc.local:5076)
 
 ## SABNZBD
 Download agent
