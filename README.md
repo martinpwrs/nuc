@@ -63,6 +63,7 @@ https://www.plex.tv/media-server-downloads
 
 https://github.com/linuxserver/docker-plex
 
+[Access](http://nuc.local:32400/)
 
 ## Portainer
 [Run through docker](https://portainer.readthedocs.io/en/stable/deployment.html)
