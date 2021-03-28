@@ -73,7 +73,16 @@ https://github.com/linuxserver/docker-plex
 ## NZBHydra2
 NZB Aggregator
 
+https://hub.docker.com/r/linuxserver/nzbhydra2
+
 [Access](http://nuc.local:5076)
+
+## Heimdall
+App Drawer
+
+https://hub.docker.com/r/linuxserver/heimdall
+
+[Access](http://nuc.local:80)
 
 ## SABNZBD
 Download agent
